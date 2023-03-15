@@ -18,8 +18,25 @@ About Me:
           📫 How to reach me 👇
     </p>
 </h4>
+<h1></h1>
+<h2 align="center">
+  🔥 Languages & Frameworks & Tools & Abilities 🔥
+  <br>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Css" height="25" src="images/css.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+</h2>
+<p align="center">
+  <a href="https://github.com/nguyenthanhan1308/mefo-music">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhan1308&repo=mefo-music&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>   
+  
+  <a href="https://github.com/nguyenthanhan1308/mefo-blog">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanhan1308&repo=mefo-blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>    
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
+</p>
 <h1 align="center">
     <p align="center">
         My daily.dev card
